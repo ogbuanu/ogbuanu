@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikenna Ogbuanu</h1>
-<h3 align="center">A full stack web developer and a web3 integrator with 3 years of professional experience building web3 and web3 applications. I have worked with tools such as Reactjs, Nextjs, Typescript, Redux, Laravel, Node, Express, Nestjs etc.</h3>
+<h3 align="center">A full stack web developer and a web3 integrator with 3 years of professional experience building web3 and web3 applications. I have worked with tools such as Reactjs, Nextjs, Typescript, Redux, Laravel, Node, Express, and  Nestjs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogbuanu&label=Profile%20views&color=0e75b6&style=flat" alt="ogbuanu" /> </p>
 
